@@ -1,0 +1,5 @@
+==DIA ALIOUNE==
+Wrap pyodbc
+Wrap ftplib
+Wrap threading
+Allow automtic loading from ftp to DB
