@@ -406,8 +406,7 @@ class DejaReaboHandler(object):
                     len(self.num_abo_list),
                     self.main_fichier
                     )
-                    to = [ 'you@pcci.sn',
-                         ]
+                    to = [ 'you@pcci.sn']
                     
                     """
                     to = ['adia@pcci.sn',
@@ -467,8 +466,7 @@ class DejaReaboHandler(object):
                                              len(self.num_abo_list),
                                              self.main_fichier
                                             )
-                    to = [ 'you@pcci.sn',
-                          ]
+                    to = [ 'you@pcci.sn']
                     """
                     to = ['adia@pcci.sn',
                          'dia.aliounes@gmail.com']
