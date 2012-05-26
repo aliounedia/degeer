@@ -3,3 +3,8 @@ Wrap pyodbc
 Wrap ftplib
 Wrap threading
 Allow automatic loading from ftp to DB
+
+Because We Have some restrictions to get emailS from
+server, Pop3 not enabled, we not use the po3client.py
+to retreive files.To avoid this we are going to use
+the ftpclient.py.
