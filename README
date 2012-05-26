@@ -2,4 +2,4 @@
 Wrap pyodbc
 Wrap ftplib
 Wrap threading
-Allow automtic loading from ftp to DB
+Allow automatic loading from ftp to DB
