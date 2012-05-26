@@ -303,16 +303,7 @@ class DejaReaboHandler(object):
                              )
                        
                 
-                to = [ 'eyfaye@pcci.sn',
-                       'smgning@pcci.sn',
-                       'magoudiaby@pcci.sn',
-                       'andoye@pcci.sn',
-                       'tsenghor@pcci.sn',
-                       'adia@pcci.sn',
-                       'kmbaye@pcci.sn',
-                       'rlaoualy@pcci.sn',
-                       'cmbacke@pcci.sn',
-                       'sdial@pcci.sn']
+                to = [ 'you@pcci.sn']
                 """
                 to = ['adia@pcci.sn',
                      'dia.aliounes@gmail.com']
