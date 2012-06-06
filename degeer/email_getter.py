@@ -44,7 +44,7 @@ class  SMTP2Local(object):
         
             if mail.is_multipart():
                print "From:", mail["From"]
-           print "Subject:", mail["Subject"]
+               print "Subject:", mail["Subject"]
                print "Date:", mail["Date"]
                for  p in mail.get_payload():
                     print  p.get_content_type()
